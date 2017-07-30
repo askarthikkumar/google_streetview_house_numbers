@@ -19,13 +19,13 @@ My project is to train a CNN to identify numbers upto a limit of three digits.
 
 
 ### Prerequisites
-h5py
-numpy
-tensorflow
-os
-pickle
-matplotlib.pyplot
-PIL
+1. h5py
+2. numpy
+3. tensorflow
+4. os
+5. pickle
+6. matplotlib.pyplot
+7. PIL
 
 ## Deployment
 
