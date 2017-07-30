@@ -34,6 +34,6 @@ While training the model (while the model1.py is running), u can run the command
 ## Acknowledgments
 
 The model was highly influenced by the RyannG's blog.
-You can read about it here - https://github.com/RyannnG/Capstone-Google-SVHN-Digits-Recognition
+You can read about it here - https://ryannng.github.io/2016/12/20/Street-View-House-Numbers-Recognition-Using-ConvNets/
 
 
